@@ -1,10 +1,10 @@
-# credit-risk-classification
+## credit-risk-classification
 Module 20 Challenge
 
 ## Purpose of the Analysis:
 The analysis aims to develop and assess machine learning models for loan risk assessment. Using a dataset from a peer-to-peer lending services company, the goal is to create models that can accurately determine the creditworthiness of borrowers and classify the risk associated with loans.
 
-## Financial Information in the Data:
+##  Financial Information in the Data:
 The dataset includes various financial information, with the primary focus on predicting loan status. Features used for prediction include loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt.
 
 # Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
