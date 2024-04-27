@@ -29,6 +29,7 @@ The first set of variables, with a value of '0' (value count of 75,036), indicat
 
 ## Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithm).
 The methods used are:
+
 •	Logistic Regression model on the original fitted data. 
 
 •	Confusion matrix
